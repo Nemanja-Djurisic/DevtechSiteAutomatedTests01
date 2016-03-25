@@ -1,0 +1,9 @@
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\DevtechSiteAutomatedTests01.dll
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\DevtechSiteAutomatedTests01.pdb
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\WebDriver.dll
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\WebDriver.Support.dll
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\WebDriver.xml
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\bin\Debug\WebDriver.Support.xml
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\obj\Debug\DevtechSiteAutomatedTests01.csprojResolveAssemblyReference.cache
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\obj\Debug\DevtechSiteAutomatedTests01.dll
+D:\GitHub\Projects\DevtechSiteAutomatedTests01\DevtechSiteAutomatedTests01\obj\Debug\DevtechSiteAutomatedTests01.pdb
