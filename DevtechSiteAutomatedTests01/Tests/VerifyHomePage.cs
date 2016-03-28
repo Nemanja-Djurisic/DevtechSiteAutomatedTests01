@@ -35,10 +35,10 @@ namespace DevtechInternalAT01.Tests
         }
 
 
-        //[TestCleanup]
-        //public void Finish()
-        //{
-        //    this.Initialize.FinishTest(this.Driver);
-        //}
+        [TestCleanup]
+        public void Finish()
+        {
+            this.Initialize.FinishTest(this.Driver);
+        }
     }
 }
